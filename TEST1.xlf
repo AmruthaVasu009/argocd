@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+    xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file datatype="plaintext" original="self" source-language="en" target-language="de">
+        <header>
+            <sxmd:metadata
+                xmlns:sxmd="urn:x-sap:mlt:xliff12:metadata:1.0"
+                xmlns="urn:x-sap:mlt:tsmetadata:1.0">
+                <object-name>tutorial1</object-name>
+                <collection>tutorial</collection>
+                <domain>BC</domain>
+                <developer>I044892</developer>
+                <description>XLIFF file from MLT's XLIFF library tutorial</description>
+            </sxmd:metadata>
+        </header>
+        <body>
+            <trans-unit id="hello_world" restype="menuitem">
+                <source>Hello world!</source>
+                <target>Hallo Welt_DE!</target>
+            </trans-unit>
+            <trans-unit id="Testing" restype="caption">
+                <source>Testing</source>
+                <target>Testen_DE</target>
+            </trans-unit>
+            <trans-unit id="Review" restype="menuitem">
+                <source>Review</source>
+                <target>Rezension DE</target>
+            </trans-unit>
+            <trans-unit id="Replacement" restype="menuitem">
+                <source>Replacement</source>
+                <target>Ersatz_DE</target>
+            </trans-unit>
+          
+        </body>
+    </file>
+</xliff>
